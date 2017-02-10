@@ -1,7 +1,7 @@
 ## 使用
 - 下载文件
 - 直接加载插件源码（方便修改）， 直接加载chrome-extension-src/gaki目录即可， 点击背景页即可打开插件console面板
-![image](/cyuxlif/php-console/blob/master/screenshots/QQ%E5%9B%BE%E7%89%8720161109115516.png?raw=true)
+![image](https://raw.githubusercontent.com/cyuxlif/php-console/master/screenshots/QQ%E5%9B%BE%E7%89%8720161109115516.png)
 - 引入Console.php使用， 可直接include, 或者根据框架的autoloader使用
   
 ```
@@ -12,7 +12,7 @@ Console::error("xxxxxxx");
 Console::info("kkkkkkkk");
 Console::warn("ttttttttt");
 ```
-![image](/cyuxlif/php-console/blob/master/screenshots/QQ%E5%9B%BE%E7%89%8720161109115951.png?raw=true)
+![image](https://raw.githubusercontent.com/cyuxlif/php-console/master/screenshots/QQ%E5%9B%BE%E7%89%8720161109115951.png)
 ## 配置
 
 - 直接修改Console.php, 找到$_config 将host指向你的电脑
