@@ -2,7 +2,7 @@
 
 /**
  * Class Console
- * author: dean
+ * author: cyuxlif
  */
 
 class Console{
